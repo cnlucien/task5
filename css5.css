@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 65.2%;
+
+}
+.head{
+    background-color: #5FC0CD;
+    text-align: center;
+    color: #ffffff;
+    padding: 2%;
+    font-size: 3rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.head1{
+    float: left;
+}
+p{
+
+
+}
