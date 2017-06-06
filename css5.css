@@ -4,11 +4,12 @@
     font-size: 65.2%;
 
 }
+
 .head{
     background-color: #5FC0CD;
     text-align: center;
     color: #ffffff;
-    padding: 2%;
+    padding: 1rem;
     font-size: 3rem;
     position: fixed;
     top: 0;
@@ -18,7 +19,107 @@
 .head1{
     float: left;
 }
+
+.main1{
+    background: url("images/bground.png") no-repeat center;
+    background-size: cover;
+    margin-top: 4rem;
+    padding: 2rem;
+    color: #ffffff;
+}
+.inlineblock{
+    display: inline-block;
+    margin-left: 2rem;
+    padding: 0.2rem;
+    vertical-align: middle;
+
+}
+img{
+    vertical-align: middle;
+    max-width: 100%;
+
+}
 p{
+    display: inline;
+}
+h2{
+    font-size: 1.8rem;
+
+}
+.main2{
+    padding: 2rem;
+    border-bottom: solid 1px #E1E5E7;
 
 
+}
+.main3{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-bottom: solid 1px #E1E5E7;
+    padding: 1rem;
+}
+.main4{
+    padding: 0;
+}
+.main5{
+    padding-left: 0;
+}
+h3{
+    font-size: 1.7rem;
+    border-left: solid #60C0CD 3px;
+    padding-left: 2rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+.p1{
+    font-size: 1.5rem;
+    vertical-align: middle;
+    font-family: 宋体;
+}
+.img1{
+    border-left: solid 1px #E1E5E7;
+    margin-left: 0.5rem;
+    padding-left: 0.5rem;
+}
+.h3color{
+    color: #9A9A9A;
+    border: none;
+}
+.p2{
+    border-left: solid 1px #E1E5E7;
+    padding-left: 1rem;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+.p3{
+    color: #ff0000;
+}
+.p4{
+    display: inline-block;
+
+    text-align: left;
+}
+.foot{
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+
+button{
+    width: 45%;
+    border: #5FC0CD 2px solid;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    font-size: 2rem;
+}
+.message{
+    background-color: #ffffff;
+    color: #5FC0CD;
+}
+.contact{
+    background-color: #5FC0CD;
+    color: #ffffff;
 }
