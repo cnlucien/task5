@@ -91,6 +91,7 @@ h3{
     margin-left: 1rem;
     margin-right: 1rem;
     line-height: 2rem;
+    position: relative;
 
 }
 .item-head{
@@ -106,11 +107,11 @@ h3{
     vertical-align: middle;
     font-size: 1.5rem;
 }
-.item-foot1{
 
-}
 .item-myself{
     position: absolute;
+    top:50%;
+    transform: translateY(-50%);
     vertical-align: middle;
 }
 .font-color{
